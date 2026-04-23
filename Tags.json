@@ -1,0 +1,58 @@
+[
+  {
+    "nome": "Nutrição",
+    "keywords": ["alimentação", "dieta", "nutrientes", "vitamina", "alimentos", "calorias"],
+    "sinonimos": ["comida saudável", "hábitos alimentares"],
+    "ativa": true,
+    "peso_global": 1.0
+  },
+  {
+    "nome": "Sono",
+    "keywords": ["sono", "dormir", "insônia", "descanso", "sono profundo"],
+    "sinonimos": ["qualidade do sono"],
+    "ativa": true,
+    "peso_global": 1.0
+  },
+  {
+    "nome": "Treino",
+    "keywords": ["exercício", "academia", "treino", "atividade física", "musculação"],
+    "sinonimos": ["fitness"],
+    "ativa": true,
+    "peso_global": 1.0
+  },
+  {
+    "nome": "Saúde Mental",
+    "keywords": ["ansiedade", "depressão", "estresse", "mental", "psicológico"],
+    "sinonimos": ["bem-estar mental"],
+    "ativa": true,
+    "peso_global": 1.0
+  },
+  {
+    "nome": "Doenças",
+    "keywords": ["diabetes", "câncer", "hipertensão", "doença", "sintomas"],
+    "sinonimos": ["condições médicas"],
+    "ativa": true,
+    "peso_global": 1.0
+  },
+  {
+    "nome": "Prevenção",
+    "keywords": ["prevenção", "prevenir", "vacina", "imunização"],
+    "sinonimos": ["cuidados preventivos"],
+    "ativa": true,
+    "peso_global": 1.0
+  },
+  {
+    "nome": "Medicina",
+    "keywords": ["tratamento", "remédio", "terapia", "cirurgia", "médico"],
+    "sinonimos": ["intervenção médica"],
+    "ativa": true,
+    "peso_global": 1.0
+  },
+  {
+    "nome": "Pesquisa",
+    "keywords": ["estudo", "pesquisa", "cientistas", "descoberta", "universidade"],
+    "sinonimos": ["evidência científica"],
+    "ativa": true,
+    "peso_global": 1.0
+  }
+]
