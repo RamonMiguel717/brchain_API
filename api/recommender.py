@@ -12,9 +12,9 @@ from api.config import (
 
 # Queries de fallback usadas quando o perfil do usuario ainda esta vazio (cold-start).
 COLD_START_QUERIES = [
-    "saude bem-estar",
-    "nutricao alimentacao",
-    "exercicio atividade fisica",
+    "saude",
+    "nutricao",
+    "exercicio",
 ]
 
 
