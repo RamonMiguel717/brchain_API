@@ -16,6 +16,7 @@ class ArticleResponse(BaseModel):
     description: str | None = None
     content: str | None = None
     url: str | None = None
+    image: str | None = None          # ← URL da imagem de capa da notícia
     source_name: str | None = None
     published_at: datetime | None = None
     categories: list[str] = Field(default_factory=list)

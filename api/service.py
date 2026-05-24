@@ -203,6 +203,7 @@ class NewsService:
             description=article.get("description"),
             content=article.get("content"),
             url=article.get("url"),
+            image=article.get("image"),           # ← campo adicionado
             source_name=article.get("source_name") or (article.get("source") or {}).get("name"),
             published_at=article.get("published_at"),
             categories=article.get("categories", []),
